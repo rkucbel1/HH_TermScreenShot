@@ -5,6 +5,6 @@ HH_FirefoxScreenShot.png
 HH_Process
 HH_Screenshot
 geckodriver.log
-key
-key.pub
+HH_TermData.json
+HH_TemplateMatch.json
 .gitignore
