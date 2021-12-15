@@ -17,6 +17,7 @@ firefox_options.add_argument('--windowsize=1920,890')
 fp = webdriver.FirefoxProfile(profile_loc)
 
 driver = webdriver.Firefox(fp, executable_path='/usr/bin/geckodriver', options=firefox_options)
+driver.maximize_window()
 
 try:
    time.sleep(3)
