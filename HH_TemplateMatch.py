@@ -33,9 +33,9 @@ coordinate_data['offset_x1_im1'] = 0
 coordinate_data['offset_y1_im1'] = 0
 coordinate_data['offset_x2_im1'] = 110
 coordinate_data['offset_y2_im1'] = 195
-coordinate_data['offset_x1_im2'] = 145
+coordinate_data['offset_x1_im2'] = 165
 coordinate_data['offset_y1_im2'] = 0
-coordinate_data['offset_x2_im2'] = 190
+coordinate_data['offset_x2_im2'] = 210
 coordinate_data['offset_y2_im2'] = 195
 
 writeToJSONFile(path, filename, coordinate_data)
